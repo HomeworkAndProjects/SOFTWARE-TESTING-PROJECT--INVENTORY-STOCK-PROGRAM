@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DemirbasTakipModelStoreContainer" CdmEntityContainer="DemirbasTakipEntities">
+    <EntitySetMapping Name="tblDemirbas">
+      <EntityTypeMapping TypeName="DemirbasTakipModel.tblDemirba">
+        <MappingFragment StoreEntitySet="tblDemirbas">
+          <ScalarProperty Name="demirbasID" ColumnName="demirbasID" />
+          <ScalarProperty Name="demirbasAdi" ColumnName="demirbasAdi" />
+          <ScalarProperty Name="fiyat" ColumnName="fiyat" />
+          <ScalarProperty Name="alimTarihi" ColumnName="alimTarihi" />
+          <ScalarProperty Name="demirbasTuruID" ColumnName="demirbasTuruID" />
+          <ScalarProperty Name="fakulteID" ColumnName="fakulteID" />
+          <ScalarProperty Name="departmanID" ColumnName="departmanID" />
+          <ScalarProperty Name="adet" ColumnName="adet" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblDemirbasTurus">
+      <EntityTypeMapping TypeName="DemirbasTakipModel.tblDemirbasTuru">
+        <MappingFragment StoreEntitySet="tblDemirbasTuru">
+          <ScalarProperty Name="demirbasTuruID" ColumnName="demirbasTuruID" />
+          <ScalarProperty Name="demirbasTuruAdi" ColumnName="demirbasTuruAdi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblDepartmen">
+      <EntityTypeMapping TypeName="DemirbasTakipModel.tblDepartman">
+        <MappingFragment StoreEntitySet="tblDepartman">
+          <ScalarProperty Name="departmanID" ColumnName="departmanID" />
+          <ScalarProperty Name="departmanAdi" ColumnName="departmanAdi" />
+          <ScalarProperty Name="fakulteID" ColumnName="fakulteID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblFakultes">
+      <EntityTypeMapping TypeName="DemirbasTakipModel.tblFakulte">
+        <MappingFragment StoreEntitySet="tblFakulte">
+          <ScalarProperty Name="fakulteID" ColumnName="fakulteID" />
+          <ScalarProperty Name="fakulteAdi" ColumnName="fakulteAdi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblKullanicis">
+      <EntityTypeMapping TypeName="DemirbasTakipModel.tblKullanici">
+        <MappingFragment StoreEntitySet="tblKullanici">
+          <ScalarProperty Name="kullaniciID" ColumnName="kullaniciID" />
+          <ScalarProperty Name="personelID" ColumnName="personelID" />
+          <ScalarProperty Name="kullaniciAdi" ColumnName="kullaniciAdi" />
+          <ScalarProperty Name="kullaniciSifre" ColumnName="kullaniciSifre" />
+          <ScalarProperty Name="yetki" ColumnName="yetki" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblOdas">
+      <EntityTypeMapping TypeName="DemirbasTakipModel.tblOda">
+        <MappingFragment StoreEntitySet="tblOda">
+          <ScalarProperty Name="odaID" ColumnName="odaID" />
+          <ScalarProperty Name="odaAdi" ColumnName="odaAdi" />
+          <ScalarProperty Name="departmanID" ColumnName="departmanID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblOdaDemirbas">
+      <EntityTypeMapping TypeName="DemirbasTakipModel.tblOdaDemirba">
+        <MappingFragment StoreEntitySet="tblOdaDemirbas">
+          <ScalarProperty Name="odaDemirbasAtamaID" ColumnName="odaDemirbasAtamaID" />
+          <ScalarProperty Name="odaID" ColumnName="odaID" />
+          <ScalarProperty Name="demirbasID" ColumnName="demirbasID" />
+          <ScalarProperty Name="adet" ColumnName="adet" />
+          <ScalarProperty Name="personelID" ColumnName="personelID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tblPersonels">
+      <EntityTypeMapping TypeName="DemirbasTakipModel.tblPersonel">
+        <MappingFragment StoreEntitySet="tblPersonel">
+          <ScalarProperty Name="personelID" ColumnName="personelID" />
+          <ScalarProperty Name="personelAdi" ColumnName="personelAdi" />
+          <ScalarProperty Name="personelSoyadi" ColumnName="personelSoyadi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

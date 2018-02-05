@@ -1,0 +1,251 @@
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\V1\MDIFormDenemesi\MDIFormDenemesi\bin\Debug\MDIFormDenemesi.exe.config
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\V1\MDIFormDenemesi\MDIFormDenemesi\bin\Debug\MDIFormDenemesi.exe
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\V1\MDIFormDenemesi\MDIFormDenemesi\bin\Debug\MDIFormDenemesi.pdb
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\V1\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\V1\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.Properties.Resources.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\V1\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\V1\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\V1\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.exe
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\V1\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.pdb
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\V1\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.FrmAdminPaneli.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\V1\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.FrmPersonelPanelics.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\V1\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.FrmGiris.resources
+C:\Users\Samsung\Desktop\MDIFormDenemesi\MDIFormDenemesi\bin\Debug\MDIFormDenemesi.exe.config
+C:\Users\Samsung\Desktop\MDIFormDenemesi\MDIFormDenemesi\bin\Debug\MDIFormDenemesi.exe
+C:\Users\Samsung\Desktop\MDIFormDenemesi\MDIFormDenemesi\bin\Debug\MDIFormDenemesi.pdb
+C:\Users\Samsung\Desktop\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.csprojResolveAssemblyReference.cache
+C:\Users\Samsung\Desktop\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.FrmAdminPaneli.resources
+C:\Users\Samsung\Desktop\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.FrmPersonelPanelics.resources
+C:\Users\Samsung\Desktop\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.Properties.Resources.resources
+C:\Users\Samsung\Desktop\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.csproj.GenerateResource.Cache
+C:\Users\Samsung\Desktop\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.exe
+C:\Users\Samsung\Desktop\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.pdb
+C:\Users\Samsung\Desktop\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.frmGiris.resources
+C:\Users\Samsung\Desktop\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.frmTanitim1.resources
+C:\Users\Samsung\Desktop\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.frmPersonelArama.resources
+C:\Users\Samsung\Desktop\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.frmOdaArama.resources
+C:\Users\Samsung\Desktop\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.frmDemirbas.resources
+C:\Users\Samsung\Desktop\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.frmDemirbasAtaDokumAl.resources
+C:\Users\Samsung\Desktop\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.frmArama.resources
+C:\Users\Samsung\Desktop\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.frmAtaKaydet.resources
+C:\Users\Samsung\Desktop\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.frmDemirbasEkleme.resources
+C:\Users\Samsung\Desktop\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.frmDemirbasKayit.resources
+C:\Users\Samsung\Desktop\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.frmDemirbasIslemleri.resources
+C:\Users\Samsung\Desktop\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.frmYardim.resources
+D:\CELAL BAYAR\Nesne Programlama Örnekleri\NOTLARIM\Yazılım Doğrulama ve Geçerleme\MDIFormDenemesi\MDIFormDenemesi\bin\Debug\MDIFormDenemesi.exe.config
+D:\CELAL BAYAR\Nesne Programlama Örnekleri\NOTLARIM\Yazılım Doğrulama ve Geçerleme\MDIFormDenemesi\MDIFormDenemesi\bin\Debug\MDIFormDenemesi.exe
+D:\CELAL BAYAR\Nesne Programlama Örnekleri\NOTLARIM\Yazılım Doğrulama ve Geçerleme\MDIFormDenemesi\MDIFormDenemesi\bin\Debug\MDIFormDenemesi.pdb
+D:\CELAL BAYAR\Nesne Programlama Örnekleri\NOTLARIM\Yazılım Doğrulama ve Geçerleme\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.csprojResolveAssemblyReference.cache
+D:\CELAL BAYAR\Nesne Programlama Örnekleri\NOTLARIM\Yazılım Doğrulama ve Geçerleme\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.FrmAdminPaneli.resources
+D:\CELAL BAYAR\Nesne Programlama Örnekleri\NOTLARIM\Yazılım Doğrulama ve Geçerleme\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.frmDemirbasAtaDokumAl.resources
+D:\CELAL BAYAR\Nesne Programlama Örnekleri\NOTLARIM\Yazılım Doğrulama ve Geçerleme\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.frmDemirbasEkleme.resources
+D:\CELAL BAYAR\Nesne Programlama Örnekleri\NOTLARIM\Yazılım Doğrulama ve Geçerleme\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.frmGiris.resources
+D:\CELAL BAYAR\Nesne Programlama Örnekleri\NOTLARIM\Yazılım Doğrulama ve Geçerleme\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.frmOdaArama.resources
+D:\CELAL BAYAR\Nesne Programlama Örnekleri\NOTLARIM\Yazılım Doğrulama ve Geçerleme\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.frmPersonelArama.resources
+D:\CELAL BAYAR\Nesne Programlama Örnekleri\NOTLARIM\Yazılım Doğrulama ve Geçerleme\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.frmYardim.resources
+D:\CELAL BAYAR\Nesne Programlama Örnekleri\NOTLARIM\Yazılım Doğrulama ve Geçerleme\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.Properties.Resources.resources
+D:\CELAL BAYAR\Nesne Programlama Örnekleri\NOTLARIM\Yazılım Doğrulama ve Geçerleme\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.csproj.GenerateResource.Cache
+D:\CELAL BAYAR\Nesne Programlama Örnekleri\NOTLARIM\Yazılım Doğrulama ve Geçerleme\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.exe
+D:\CELAL BAYAR\Nesne Programlama Örnekleri\NOTLARIM\Yazılım Doğrulama ve Geçerleme\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.pdb
+D:\CELAL BAYAR\Nesne Programlama Örnekleri\NOTLARIM\Yazılım Doğrulama ve Geçerleme\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.FrmOdaSorumlusuAta.resources
+D:\CELAL BAYAR\Nesne Programlama Örnekleri\NOTLARIM\Yazılım Doğrulama ve Geçerleme\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.FrmStokGoruntule.resources
+D:\CELAL BAYAR\Nesne Programlama Örnekleri\NOTLARIM\Yazılım Doğrulama ve Geçerleme\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.frmOdaGoruntule.resources
+D:\CELAL BAYAR\Nesne Programlama Örnekleri\NOTLARIM\Yazılım Doğrulama ve Geçerleme\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.frmStokDemirbasKayit.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Yedekler\MDIFormDenemesi\MDIFormDenemesi\bin\Debug\MDIFormDenemesi.exe.config
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Yedekler\MDIFormDenemesi\MDIFormDenemesi\bin\Debug\MDIFormDenemesi.exe
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Yedekler\MDIFormDenemesi\MDIFormDenemesi\bin\Debug\MDIFormDenemesi.pdb
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Yedekler\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Yedekler\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.FrmAdminPaneli.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Yedekler\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.FrmOdaArama.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Yedekler\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.FrmOdaSorumlusuAta.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Yedekler\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.FrmStokGoruntule.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Yedekler\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.frmDemirbasAtaDokumAl.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Yedekler\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.frmDemirbasEkleme.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Yedekler\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.frmOdaGoruntule.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Yedekler\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.frmStokDemirbasKayit.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Yedekler\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.frmGiris.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Yedekler\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.frmPersonelArama.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Yedekler\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.frmYardim.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Yedekler\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.Properties.Resources.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Yedekler\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Yedekler\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Yedekler\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.exe
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Yedekler\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.pdb
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Yedekler\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.FrmPersonelEkle.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Yedekler\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.FrmOdaEkle.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\DemirbaşTakip\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\bin\Debug\MDIFormDenemesi.exe.config
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\DemirbaşTakip\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\bin\Debug\MDIFormDenemesi.exe
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\DemirbaşTakip\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\bin\Debug\MDIFormDenemesi.pdb
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\DemirbaşTakip\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\DemirbaşTakip\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.FrmAdminPaneli.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\DemirbaşTakip\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.FrmNormal.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\DemirbaşTakip\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.FrmOdaArama.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\DemirbaşTakip\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.FrmOdaEkle.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\DemirbaşTakip\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.FrmOdaSorumlusuAta.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\DemirbaşTakip\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.FrmPersonelEkle.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\DemirbaşTakip\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.FrmStokGoruntule.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\DemirbaşTakip\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.frmDemirbasAtaDokumAl.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\DemirbaşTakip\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.frmDemirbasEkleme.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\DemirbaşTakip\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.frmOdaGoruntule.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\DemirbaşTakip\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.frmStokDemirbasKayit.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\DemirbaşTakip\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.frmGiris.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\DemirbaşTakip\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.frmPersonelArama.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\DemirbaşTakip\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.frmYardim.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\DemirbaşTakip\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.Properties.Resources.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\DemirbaşTakip\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\DemirbaşTakip\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\DemirbaşTakip\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.exe
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\DemirbaşTakip\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.pdb
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Yedekler\V1\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\bin\Debug\MDIFormDenemesi.exe.config
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Yedekler\V1\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\bin\Debug\MDIFormDenemesi.exe
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Yedekler\V1\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\bin\Debug\MDIFormDenemesi.pdb
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Yedekler\V1\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Yedekler\V1\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.FrmAdminPaneli.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Yedekler\V1\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.FrmNormal.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Yedekler\V1\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.FrmOdaArama.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Yedekler\V1\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.FrmOdaEkle.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Yedekler\V1\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.FrmOdaSorumlusuAta.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Yedekler\V1\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.FrmStokGoruntule.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Yedekler\V1\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.frmDemirbasAtaDokumAl.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Yedekler\V1\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.frmDemirbasEkleme.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Yedekler\V1\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.frmOdaGoruntule.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Yedekler\V1\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.frmStokDemirbasKayit.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Yedekler\V1\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.frmGiris.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Yedekler\V1\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.frmPersonelArama.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Yedekler\V1\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.frmYardim.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Yedekler\V1\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.Properties.Resources.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Yedekler\V1\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Yedekler\V1\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Yedekler\V1\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.exe
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Yedekler\V1\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.pdb
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Entity Framework kullanımı\EntityFrameworkDeneme\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\bin\Debug\MDIFormDenemesi.exe.config
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Entity Framework kullanımı\EntityFrameworkDeneme\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\bin\Debug\MDIFormDenemesi.exe
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Entity Framework kullanımı\EntityFrameworkDeneme\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\bin\Debug\MDIFormDenemesi.pdb
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Entity Framework kullanımı\EntityFrameworkDeneme\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\bin\Debug\EntityFramework.dll
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Entity Framework kullanımı\EntityFrameworkDeneme\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Entity Framework kullanımı\EntityFrameworkDeneme\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\bin\Debug\EntityFramework.xml
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Entity Framework kullanımı\EntityFrameworkDeneme\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Entity Framework kullanımı\EntityFrameworkDeneme\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Entity Framework kullanımı\EntityFrameworkDeneme\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.FrmAdminPaneli.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Entity Framework kullanımı\EntityFrameworkDeneme\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.FrmNormal.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Entity Framework kullanımı\EntityFrameworkDeneme\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.FrmOdaArama.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Entity Framework kullanımı\EntityFrameworkDeneme\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.FrmOdaEkle.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Entity Framework kullanımı\EntityFrameworkDeneme\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.FrmOdaSorumlusuAta.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Entity Framework kullanımı\EntityFrameworkDeneme\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.FrmStokGoruntule.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Entity Framework kullanımı\EntityFrameworkDeneme\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.frmDemirbasAtaDokumAl.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Entity Framework kullanımı\EntityFrameworkDeneme\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.frmDemirbasEkleme.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Entity Framework kullanımı\EntityFrameworkDeneme\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.frmOdaGoruntule.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Entity Framework kullanımı\EntityFrameworkDeneme\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.frmStokDemirbasKayit.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Entity Framework kullanımı\EntityFrameworkDeneme\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.frmGiris.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Entity Framework kullanımı\EntityFrameworkDeneme\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.frmPersonelArama.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Entity Framework kullanımı\EntityFrameworkDeneme\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.frmYardim.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Entity Framework kullanımı\EntityFrameworkDeneme\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.Properties.Resources.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Entity Framework kullanımı\EntityFrameworkDeneme\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Entity Framework kullanımı\EntityFrameworkDeneme\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Entity Framework kullanımı\EntityFrameworkDeneme\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.exe
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Entity Framework kullanımı\EntityFrameworkDeneme\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.pdb
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Yedekler\EntityFrameworkDeneme\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Yedekler\EntityFrameworkDeneme\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.FrmAdminPaneli.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Yedekler\EntityFrameworkDeneme\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.FrmNormal.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Yedekler\EntityFrameworkDeneme\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.FrmOdaArama.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Yedekler\EntityFrameworkDeneme\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.FrmOdaEkle.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Yedekler\EntityFrameworkDeneme\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.FrmOdaSorumlusuAta.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Yedekler\EntityFrameworkDeneme\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.FrmStokGoruntule.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Yedekler\EntityFrameworkDeneme\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.frmDemirbasAtaDokumAl.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Yedekler\EntityFrameworkDeneme\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.frmDemirbasEkleme.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Yedekler\EntityFrameworkDeneme\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.frmOdaGoruntule.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Yedekler\EntityFrameworkDeneme\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.frmStokDemirbasKayit.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Yedekler\EntityFrameworkDeneme\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.frmGiris.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Yedekler\EntityFrameworkDeneme\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.frmPersonelArama.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Yedekler\EntityFrameworkDeneme\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.frmYardim.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Yedekler\EntityFrameworkDeneme\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.Properties.Resources.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Yedekler\EntityFrameworkDeneme\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Yedekler\EntityFrameworkDeneme\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Yedekler\EntityFrameworkDeneme\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.exe
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Yedekler\EntityFrameworkDeneme\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.pdb
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Yedekler\EntityFrameworkDeneme\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\bin\Debug\MDIFormDenemesi.exe.config
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Yedekler\EntityFrameworkDeneme\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\bin\Debug\MDIFormDenemesi.exe
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Yedekler\EntityFrameworkDeneme\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\bin\Debug\MDIFormDenemesi.pdb
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Yedekler\EntityFrameworkDeneme\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\bin\Debug\EntityFramework.dll
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Yedekler\EntityFrameworkDeneme\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Yedekler\EntityFrameworkDeneme\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\bin\Debug\EntityFramework.xml
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\Yedekler\EntityFrameworkDeneme\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\DemirbaşTakip\EntityFrameworkDeneme\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\bin\Debug\MDIFormDenemesi.exe.config
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\DemirbaşTakip\EntityFrameworkDeneme\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\bin\Debug\MDIFormDenemesi.exe
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\DemirbaşTakip\EntityFrameworkDeneme\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\bin\Debug\MDIFormDenemesi.pdb
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\DemirbaşTakip\EntityFrameworkDeneme\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\bin\Debug\EntityFramework.dll
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\DemirbaşTakip\EntityFrameworkDeneme\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\DemirbaşTakip\EntityFrameworkDeneme\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\bin\Debug\EntityFramework.xml
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\DemirbaşTakip\EntityFrameworkDeneme\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\DemirbaşTakip\EntityFrameworkDeneme\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\DemirbaşTakip\EntityFrameworkDeneme\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.FrmAdminPaneli.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\DemirbaşTakip\EntityFrameworkDeneme\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.FrmNormal.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\DemirbaşTakip\EntityFrameworkDeneme\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.FrmOdaArama.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\DemirbaşTakip\EntityFrameworkDeneme\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.FrmOdaEkle.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\DemirbaşTakip\EntityFrameworkDeneme\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.FrmOdaSorumlusuAta.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\DemirbaşTakip\EntityFrameworkDeneme\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.FrmStokGoruntule.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\DemirbaşTakip\EntityFrameworkDeneme\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.frmDemirbasAtaDokumAl.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\DemirbaşTakip\EntityFrameworkDeneme\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.frmDemirbasEkleme.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\DemirbaşTakip\EntityFrameworkDeneme\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.frmOdaGoruntule.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\DemirbaşTakip\EntityFrameworkDeneme\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.frmStokDemirbasKayit.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\DemirbaşTakip\EntityFrameworkDeneme\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.frmGiris.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\DemirbaşTakip\EntityFrameworkDeneme\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.frmPersonelArama.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\DemirbaşTakip\EntityFrameworkDeneme\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.frmYardim.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\DemirbaşTakip\EntityFrameworkDeneme\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.Properties.Resources.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\DemirbaşTakip\EntityFrameworkDeneme\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\DemirbaşTakip\EntityFrameworkDeneme\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\DemirbaşTakip\EntityFrameworkDeneme\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.exe
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\DemirbaşTakip\EntityFrameworkDeneme\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.pdb
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje\DemirbaşTakip\EntityFrameworkDeneme\V5-MDI\MDIFormDenemesi\MDIFormDenemesi\bin\Debug\itextsharp.dll
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje-Dökümanlar\Sunum\MDIFormDenemesi\MDIFormDenemesi\bin\Debug\MDIFormDenemesi.exe.config
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje-Dökümanlar\Sunum\MDIFormDenemesi\MDIFormDenemesi\bin\Debug\MDIFormDenemesi.exe
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje-Dökümanlar\Sunum\MDIFormDenemesi\MDIFormDenemesi\bin\Debug\MDIFormDenemesi.pdb
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje-Dökümanlar\Sunum\MDIFormDenemesi\MDIFormDenemesi\bin\Debug\EntityFramework.dll
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje-Dökümanlar\Sunum\MDIFormDenemesi\MDIFormDenemesi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje-Dökümanlar\Sunum\MDIFormDenemesi\MDIFormDenemesi\bin\Debug\EntityFramework.xml
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje-Dökümanlar\Sunum\MDIFormDenemesi\MDIFormDenemesi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje-Dökümanlar\Sunum\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje-Dökümanlar\Sunum\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.FrmAdminPaneli.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje-Dökümanlar\Sunum\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.FrmNormal.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje-Dökümanlar\Sunum\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.FrmOdaArama.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje-Dökümanlar\Sunum\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.FrmOdaEkle.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje-Dökümanlar\Sunum\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.FrmOdaSorumlusuAta.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje-Dökümanlar\Sunum\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.FrmStokGoruntule.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje-Dökümanlar\Sunum\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.frmDemirbasAtaDokumAl.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje-Dökümanlar\Sunum\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.frmDemirbasEkleme.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje-Dökümanlar\Sunum\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.frmOdaGoruntule.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje-Dökümanlar\Sunum\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.frmStokDemirbasKayit.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje-Dökümanlar\Sunum\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.frmGiris.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje-Dökümanlar\Sunum\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.frmPersonelArama.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje-Dökümanlar\Sunum\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.frmYardim.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje-Dökümanlar\Sunum\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.Properties.Resources.resources
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje-Dökümanlar\Sunum\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje-Dökümanlar\Sunum\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje-Dökümanlar\Sunum\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.exe
+C:\Users\DELL\Desktop\Yazılım Sınama Proje\Proje-Dökümanlar\Sunum\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.pdb
+C:\Users\DELL\Desktop\Dosyalar\Dersler-3.sınıfGüz\Yazılım Sınama\Yazılım Sınama Proje\Proje-Dökümanlar\Sunum\MDIFormDenemesi\MDIFormDenemesi\bin\Debug\MDIFormDenemesi.exe.config
+C:\Users\DELL\Desktop\Dosyalar\Dersler-3.sınıfGüz\Yazılım Sınama\Yazılım Sınama Proje\Proje-Dökümanlar\Sunum\MDIFormDenemesi\MDIFormDenemesi\bin\Debug\MDIFormDenemesi.exe
+C:\Users\DELL\Desktop\Dosyalar\Dersler-3.sınıfGüz\Yazılım Sınama\Yazılım Sınama Proje\Proje-Dökümanlar\Sunum\MDIFormDenemesi\MDIFormDenemesi\bin\Debug\MDIFormDenemesi.pdb
+C:\Users\DELL\Desktop\Dosyalar\Dersler-3.sınıfGüz\Yazılım Sınama\Yazılım Sınama Proje\Proje-Dökümanlar\Sunum\MDIFormDenemesi\MDIFormDenemesi\bin\Debug\EntityFramework.dll
+C:\Users\DELL\Desktop\Dosyalar\Dersler-3.sınıfGüz\Yazılım Sınama\Yazılım Sınama Proje\Proje-Dökümanlar\Sunum\MDIFormDenemesi\MDIFormDenemesi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DELL\Desktop\Dosyalar\Dersler-3.sınıfGüz\Yazılım Sınama\Yazılım Sınama Proje\Proje-Dökümanlar\Sunum\MDIFormDenemesi\MDIFormDenemesi\bin\Debug\EntityFramework.xml
+C:\Users\DELL\Desktop\Dosyalar\Dersler-3.sınıfGüz\Yazılım Sınama\Yazılım Sınama Proje\Proje-Dökümanlar\Sunum\MDIFormDenemesi\MDIFormDenemesi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DELL\Desktop\Dosyalar\Dersler-3.sınıfGüz\Yazılım Sınama\Yazılım Sınama Proje\Proje-Dökümanlar\Sunum\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\Dosyalar\Dersler-3.sınıfGüz\Yazılım Sınama\Yazılım Sınama Proje\Proje-Dökümanlar\Sunum\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.FrmAdminPaneli.resources
+C:\Users\DELL\Desktop\Dosyalar\Dersler-3.sınıfGüz\Yazılım Sınama\Yazılım Sınama Proje\Proje-Dökümanlar\Sunum\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.FrmNormal.resources
+C:\Users\DELL\Desktop\Dosyalar\Dersler-3.sınıfGüz\Yazılım Sınama\Yazılım Sınama Proje\Proje-Dökümanlar\Sunum\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.FrmOdaArama.resources
+C:\Users\DELL\Desktop\Dosyalar\Dersler-3.sınıfGüz\Yazılım Sınama\Yazılım Sınama Proje\Proje-Dökümanlar\Sunum\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.FrmOdaEkle.resources
+C:\Users\DELL\Desktop\Dosyalar\Dersler-3.sınıfGüz\Yazılım Sınama\Yazılım Sınama Proje\Proje-Dökümanlar\Sunum\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.FrmOdaSorumlusuAta.resources
+C:\Users\DELL\Desktop\Dosyalar\Dersler-3.sınıfGüz\Yazılım Sınama\Yazılım Sınama Proje\Proje-Dökümanlar\Sunum\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.FrmStokGoruntule.resources
+C:\Users\DELL\Desktop\Dosyalar\Dersler-3.sınıfGüz\Yazılım Sınama\Yazılım Sınama Proje\Proje-Dökümanlar\Sunum\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.frmDemirbasAtaDokumAl.resources
+C:\Users\DELL\Desktop\Dosyalar\Dersler-3.sınıfGüz\Yazılım Sınama\Yazılım Sınama Proje\Proje-Dökümanlar\Sunum\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.frmDemirbasEkleme.resources
+C:\Users\DELL\Desktop\Dosyalar\Dersler-3.sınıfGüz\Yazılım Sınama\Yazılım Sınama Proje\Proje-Dökümanlar\Sunum\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.frmOdaGoruntule.resources
+C:\Users\DELL\Desktop\Dosyalar\Dersler-3.sınıfGüz\Yazılım Sınama\Yazılım Sınama Proje\Proje-Dökümanlar\Sunum\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.frmStokDemirbasKayit.resources
+C:\Users\DELL\Desktop\Dosyalar\Dersler-3.sınıfGüz\Yazılım Sınama\Yazılım Sınama Proje\Proje-Dökümanlar\Sunum\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.frmGiris.resources
+C:\Users\DELL\Desktop\Dosyalar\Dersler-3.sınıfGüz\Yazılım Sınama\Yazılım Sınama Proje\Proje-Dökümanlar\Sunum\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.frmPersonelArama.resources
+C:\Users\DELL\Desktop\Dosyalar\Dersler-3.sınıfGüz\Yazılım Sınama\Yazılım Sınama Proje\Proje-Dökümanlar\Sunum\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.frmYardim.resources
+C:\Users\DELL\Desktop\Dosyalar\Dersler-3.sınıfGüz\Yazılım Sınama\Yazılım Sınama Proje\Proje-Dökümanlar\Sunum\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.Properties.Resources.resources
+C:\Users\DELL\Desktop\Dosyalar\Dersler-3.sınıfGüz\Yazılım Sınama\Yazılım Sınama Proje\Proje-Dökümanlar\Sunum\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\Dosyalar\Dersler-3.sınıfGüz\Yazılım Sınama\Yazılım Sınama Proje\Proje-Dökümanlar\Sunum\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Dosyalar\Dersler-3.sınıfGüz\Yazılım Sınama\Yazılım Sınama Proje\Proje-Dökümanlar\Sunum\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.exe
+C:\Users\DELL\Desktop\Dosyalar\Dersler-3.sınıfGüz\Yazılım Sınama\Yazılım Sınama Proje\Proje-Dökümanlar\Sunum\MDIFormDenemesi\MDIFormDenemesi\obj\Debug\MDIFormDenemesi.pdb

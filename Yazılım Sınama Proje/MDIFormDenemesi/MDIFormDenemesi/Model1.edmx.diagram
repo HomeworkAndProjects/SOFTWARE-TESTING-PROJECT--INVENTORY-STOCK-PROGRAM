@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="ac91acbbf43c4052ba8c769e0a7484c7" Name="Diagram1">
+        <EntityTypeShape EntityType="DemirbasTakipModel.tblDemirba" Width="1.5" PointX="5.25" PointY="4.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DemirbasTakipModel.tblDemirbasTuru" Width="1.5" PointX="3" PointY="5.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DemirbasTakipModel.tblDepartman" Width="1.5" PointX="3" PointY="9" IsExpanded="true" />
+        <EntityTypeShape EntityType="DemirbasTakipModel.tblFakulte" Width="1.5" PointX="0.75" PointY="5.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DemirbasTakipModel.tblKullanici" Width="1.5" PointX="7.5" PointY="2.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DemirbasTakipModel.tblOda" Width="1.5" PointX="5.25" PointY="9" IsExpanded="true" />
+        <EntityTypeShape EntityType="DemirbasTakipModel.tblOdaDemirba" Width="1.5" PointX="7.5" PointY="6.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DemirbasTakipModel.tblPersonel" Width="1.5" PointX="5.25" PointY="0.75" IsExpanded="true" />
+        <AssociationConnector Association="DemirbasTakipModel.FK_tblDemirbas_tblDemirbasTuru" ManuallyRouted="false" />
+        <AssociationConnector Association="DemirbasTakipModel.FK_tblDemirbas_tblDepartman" ManuallyRouted="false" />
+        <AssociationConnector Association="DemirbasTakipModel.FK_tblDemirbas_tblFakulte" ManuallyRouted="false" />
+        <AssociationConnector Association="DemirbasTakipModel.FK_tblOdaDemirbas_tblDemirbas" ManuallyRouted="false" />
+        <AssociationConnector Association="DemirbasTakipModel.FK_tblDepartman_tblFakulte" ManuallyRouted="false" />
+        <AssociationConnector Association="DemirbasTakipModel.FK_tblOda_tblDepartman" ManuallyRouted="false" />
+        <AssociationConnector Association="DemirbasTakipModel.FK_tblKullanici_tblPersonel" ManuallyRouted="false" />
+        <AssociationConnector Association="DemirbasTakipModel.FK_tblOdaDemirbas_tblOda" ManuallyRouted="false" />
+        <AssociationConnector Association="DemirbasTakipModel.FK_tblOdaDemirbas_tblPersonel" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
